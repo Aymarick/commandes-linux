@@ -39,3 +39,5 @@ utilisation : `touch fichier`
 utilisation : `cat test`
 * **`ssh`** : Se connecte à distance à une autre machine.  
 utilisation : `ssh nom_utilisateur@machine_distante`
+* **`nano`** : Edition d'un fichier texte.  
+utilisation : `nano fichier`
