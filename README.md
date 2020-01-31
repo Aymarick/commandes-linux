@@ -1,6 +1,8 @@
 Commandes unix 
 ==============
 
+Pour quitter une commande en cours : `Ctrl-C` (même sur Mac)
+
 * **`echo`** : Affiche une ligne de texte  
 utilisation : `echo "bonjour"`
 * **`man`** : retourne le mode d’emploi de la commande s’il existe.  
